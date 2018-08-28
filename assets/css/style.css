@@ -1,0 +1,75 @@
+#add_product{
+	margin-left: 130px;
+}
+/*page all_product*/
+.ukuran{
+	width: 9px;
+	height: 100px;
+}
+
+.jarak{
+padding: 0;
+margin-top: 100px;
+}
+.tengah{
+	margin-left: 30%;
+}
+
+.garis{
+	border:0;
+	border-top: 1px dashed #8c8c8c;
+	text-align: center;
+}
+
+.garis:after{
+	content: '\002702';
+	display: inline-block;
+	position: relative;
+	top: -13px;
+	padding: 0 3px;
+	background: #fff;
+	color: #8c8c8c;
+	font-size: 18px;
+}
+
+/*halaman index.php costumer*/
+#slide{
+	margin-bottom: 430px;
+
+}
+#content{
+	margin-top: 50px;
+	margin: 20px;
+}
+/*halaman footer.php*/
+#footer{
+	width: 100%;
+	height: 70px;
+/*	background-color: #E3E0E0;*/
+	text-align: center;
+
+}
+
+/*halaman detail_product.php*/
+.bg{
+	background-color: white;
+}
+#detail{
+	width: 100%;
+	background-color:#CCC7C7;
+	min-height:600px
+}
+#panel{
+	width: 35%;
+	float: left;
+	background-color:#CCC7C7;
+}
+#product{
+	width: 65%;
+	float: left;
+	background-color:#CCC7C7;
+	padding: 20px;
+}
+#container{
+	margin-top: 65px;
+}
