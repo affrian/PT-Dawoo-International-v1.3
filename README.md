@@ -1,1 +1,1 @@
-# php-native-dawoo-intern-v1.3
+PHP-Native: aplikasi PT. Dawoo International v1.3 adalah aplikasi yang di buat ketika semster 4 ketika proses magang pada perusahaan korea. aplikasi tersebut adalah aplikasi e-commerce sederhana untuk melakukan pemesanan frame yang di produksi oleh perusahaan tersebut.
